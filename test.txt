@@ -1,3 +1,0 @@
-red, tomatoes
-green, watermelon
-purple, grape
